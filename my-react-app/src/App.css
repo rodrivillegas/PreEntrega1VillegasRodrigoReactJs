@@ -1,0 +1,15 @@
+p{
+  color: rgb(86, 7, 12);
+  text-align: center;
+  margin-top: 3rem;
+  font-size: 3rem;
+  font-style: italic;
+}
+
+.carrito{
+  margin-left: 2rem;
+}
+
+.navBar{
+  background-color: rgb(214, 251, 171);
+}
