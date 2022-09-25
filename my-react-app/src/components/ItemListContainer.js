@@ -1,7 +1,7 @@
-function ItemListContainer() {
+function ItemListContainer({greeting}){
     return (
         <div>
-             <p>¡¡Bienvenido a tu tienda online de bebidas!!</p>
+             <p>{greeting}</p>
         </div>
     );
 }
